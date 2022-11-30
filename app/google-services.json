@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "315120196350",
+    "project_id": "voip-sample-app",
+    "storage_bucket": "voip-sample-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315120196350:android:e88ece60367493c17763af",
+        "android_client_info": {
+          "package_name": "com.dwarsh.voipcalling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315120196350-u4ga7buasrp1fdpja3koac9992tkub17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dwarsh.voipcalling",
+            "certificate_hash": "94029df0eb380bb7f7b53e2ab73ebe563e860b33"
+          }
+        },
+        {
+          "client_id": "315120196350-o2gur6h4fjtq7cpklpjpol0stbtp3t1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCImo4PJIFn7_5B3OUuSAVpANjmreiVLf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315120196350-o2gur6h4fjtq7cpklpjpol0stbtp3t1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
