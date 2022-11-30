@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "315120196350-jfgqbnn8plh9t1l7sff0ra7u03t0rjbf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dwarsh.voipcalling",
+            "certificate_hash": "360501bffa442b1ff6a6e39da541d0b1693cf25c"
+          }
+        },
+        {
           "client_id": "315120196350-u4ga7buasrp1fdpja3koac9992tkub17.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
